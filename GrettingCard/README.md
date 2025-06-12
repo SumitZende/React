@@ -8,6 +8,7 @@ A simple React project that displays personalized greeting cards using **JSX**, 
 - Dynamic rendering using props
 - Reusable greeting card component
 - Inline styling for design
+- external styling for design
 
 ---
 
